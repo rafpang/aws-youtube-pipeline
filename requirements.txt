@@ -1,6 +1,6 @@
-google-api-python-client
-python-dotenv
-pandas
-numpy
-pytz
-isodate
+sudo pip install google-api-python-client
+sudo pip install pandas
+sudo pip install numpy
+sudo pip install pytz
+sudo pip install isodate
+sudo pip install apache-airflow
