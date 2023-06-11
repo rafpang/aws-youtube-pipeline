@@ -1,3 +1,3 @@
-# Kafka Project
+# Airflow Project
 
-Building a Kafka real-time pipeline to analyze stocks.
+freecodecamp ETL project using AWS (EC2, S3, Glue) and Apache Airflow
